@@ -31,19 +31,19 @@ So while converting to json, it will appear almost like this :
 <br>
 [
     <br>
-{"Type":"1",
-<br>"Alcohol":"14.23",
-<br>"Malic acid":"1.71",
-<br>"Ash":"2.43",
-<br>"Alcalinity of ash":"15.6",
-<br>"Magnesium":"127",
-<br>"Total phenols":"2.8",
-<br>"Flavanoids":"3.06",
-<br>"Nonflavanoid phenols":"0.28",
-<br>"Proanthocyanins":"2.29",
-<br>"Color intensity":"5.64",
-<br>"Hue":"1.04",
-<br>"OD280/OD315 of diluted wines":"3.92",<br>"Proline":"1065"},
+{"typee":"1",
+<br>"alcohol":"14.23",
+<br>"malic_acid":"1.71",
+<br>"ash":"2.43",
+<br>"alcalinity_of_ash":"15.6",
+<br>"magnesium":"127",
+<br>"total_phenols":"2.8",
+<br>"flavanoids":"3.06",
+<br>"nonflavanoid_phenols":"0.28",
+<br>"proanthocyanins":"2.29",
+<br>"color_intensity":"5.64",
+<br>"hue":"1.04",
+<br>"OD280/OD315_of_diluted wines":"3.92",<br>"proline":"1065"},
 <br>
 ...............
 <br>
