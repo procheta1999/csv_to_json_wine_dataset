@@ -13,7 +13,7 @@ __Tested in Windows__
 ****
 
 # Basic documentation of the work:
-1. First I downloaded the dataset from [Wine Data Set](https://archive.ics.uci.edu/ml/datasets/wine) .
+1. First I downloaded the dataset from [Wine Data Set](https://archive.ics.uci.edu/ml/datasets/wine) . Next, I changed the extension of wine.data from .data to .csv. Then I put in the file headers i.e. the attributes, in the wine.csv file.
 2. Next, for converting to JSON file:
 - permod.sh : Its code makes the csvtojson.sh executable .
 - csvtojson.sh : It reads the csv files line by line and takes the table headers as the keys of the objects in the json array 'data' and the data of the table as the value of each set of keys.
