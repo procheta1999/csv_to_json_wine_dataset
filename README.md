@@ -31,7 +31,7 @@ So while converting to json, it will appear almost like this :
 <br>
 [
     <br>
-{"typee":"1",
+{"type":"1",
 <br>"alcohol":"14.23",
 <br>"malic_acid":"1.71",
 <br>"ash":"2.43",
